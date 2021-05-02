@@ -1,0 +1,15 @@
+body{
+    background-color: gray;
+}
+#container{
+    background-color: honeydew;
+    height:75px;
+    width:800px;
+    text-align: center;
+    padding-top: 4rem;
+    margin-top: 4rem;
+    margin-left: 4rem;
+}
+#output{
+    border-radius: 2rem;
+}
